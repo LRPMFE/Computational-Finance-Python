@@ -271,6 +271,6 @@ plt.title("Put Option Prices with dS=1")
 plt.show()
 ```
 
-![](/FD method/FD Pricing.png)
+![](/FD/FD.png)
 
 We can see that the prices are almost the same under different methods.
